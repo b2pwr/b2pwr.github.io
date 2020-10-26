@@ -21,7 +21,7 @@ function Slides(props) {
         <Link target="_blank" rel="noreferrer" href="https://docs.google.com/presentation/d/18JHQ6b4vh2UqrPI4Rc2L6_em558Ndwb9_Oe4xEcnkIM/edit?usp=sharing">Slides</Link>
       </Block>
       <Block title="Week2">
-        <span role="img" aria-label="construction">🚧</span>
+        <Link target="_blank" rel="noreferrer" href="https://docs.google.com/presentation/d/1HSW80Z30Azg2adP8gIVjbrgM3u1skZwNSSH9GcTnT4g/edit?usp=sharing">Slides</Link>
       </Block>
       <Block title="Week3">
         <span role="img" aria-label="construction">🚧</span>

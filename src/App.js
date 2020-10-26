@@ -59,7 +59,7 @@ function App() {
       <AppBar position="sticky">
         <Toolbar>
           <Typography variant="h6" className={classes.title}>
-          <span role="img" aria-label="joker">🤡</span>
+            <span role="img" aria-label="joker">🤡</span>
           </Typography>
         </Toolbar>
       </AppBar>
@@ -69,6 +69,7 @@ function App() {
         onChange={(event, newValue) => {
           setTabId(newValue);
         }}
+        style={{ position: 'sticky', top: 64, backgroundColor: '#FFFFFF' }}
       >
         <Tab label="Course" />
         <Tab label="Slides" />
