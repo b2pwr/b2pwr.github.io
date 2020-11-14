@@ -31,7 +31,7 @@ function Slides(props) {
         </div>
       </Block>
       <Block title="Week4">
-        <span role="img" aria-label="construction">🚧</span>
+      <Link target="_blank" rel="noreferrer" href="https://docs.google.com/presentation/d/1qQQwCrtYuP6PW3z8uyDkTMP1RIb5ryxFsHIvKP2mdns/edit?usp=sharing">Slides</Link>
       </Block>
     </div>
   );
